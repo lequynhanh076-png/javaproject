@@ -3,7 +3,7 @@ interface IData{
 }
 class DataManager implements IData{
     public void show(){ //default
-        System.out.println("Show Data ananalysis");
+        System.out.println("Show Data");
     }
 }
 public class Main{
